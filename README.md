@@ -1,0 +1,2 @@
+- GET /health
+- POST /ingest (Bearer INGEST_TOKEN)
